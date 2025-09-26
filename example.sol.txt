@@ -2,5 +2,9 @@
 pragma solidity ^00.8.7;
 
 contract Emaple {
-
+	//행 단위 주석
+	/*
+	
+	*/
+	//
 }

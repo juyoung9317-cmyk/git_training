@@ -1,0 +1,6 @@
+// SPDX-License-identifier: MIT
+pragma solidity ^00.8.7;
+
+contract Emaple {
+
+}
